@@ -1,0 +1,10 @@
+.block_center {
+    justify-content: center;
+    align-items: center;
+}
+.flex_vertical {
+    flex-direction: column;
+}
+.block_center, .flex_vertical {
+    display: flex;
+}
